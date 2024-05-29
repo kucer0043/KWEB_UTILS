@@ -1,5 +1,4 @@
-{
-  "apps": [
+[
     {
       "appName": "Google",
       "icon": "",
@@ -10,5 +9,4 @@
       "icon": "",
       "appUrl": "Yandex.ru"
     }
-  ]
-}
+]
